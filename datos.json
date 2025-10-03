@@ -1,0 +1,452 @@
+{
+  "COD001": {
+    "id": "ID-10001",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD002": {
+    "id": "ID-10002",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD003": {
+    "id": "ID-10003",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD004": {
+    "id": "ID-10004",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD005": {
+    "id": "ID-10005",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD006": {
+    "id": "ID-10006",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD007": {
+    "id": "ID-10007",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD008": {
+    "id": "ID-10008",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD009": {
+    "id": "ID-10009",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD010": {
+    "id": "ID-10010",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD011": {
+    "id": "ID-10011",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD012": {
+    "id": "ID-10012",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD013": {
+    "id": "ID-10013",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD014": {
+    "id": "ID-10014",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD015": {
+    "id": "ID-10015",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD016": {
+    "id": "ID-10016",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD017": {
+    "id": "ID-10017",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD018": {
+    "id": "ID-10018",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD019": {
+    "id": "ID-10019",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD020": {
+    "id": "ID-10020",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD021": {
+    "id": "ID-10021",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD022": {
+    "id": "ID-10022",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD023": {
+    "id": "ID-10023",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD024": {
+    "id": "ID-10024",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+    "COD025": {
+    "id": "ID-10025",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD026": {
+    "id": "ID-10026",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD027": {
+    "id": "ID-10027",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD028": {
+    "id": "ID-10028",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD029": {
+    "id": "ID-10029",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD030": {
+    "id": "ID-10030",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD031": {
+    "id": "ID-10031",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD032": {
+    "id": "ID-10032",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD033": {
+    "id": "ID-10033",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD034": {
+    "id": "ID-10034",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD035": {
+    "id": "ID-10035",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD036": {
+    "id": "ID-10036",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD037": {
+    "id": "ID-10037",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD038": {
+    "id": "ID-10038",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD039": {
+    "id": "ID-10039",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD040": {
+    "id": "ID-10040",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD041": {
+    "id": "ID-10041",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD042": {
+    "id": "ID-10042",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD043": {
+    "id": "ID-10043",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD044": {
+    "id": "ID-10044",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  },
+  "COD045": {
+    "id": "ID-10045",
+    "sueldo": 2030.00,
+    "bonos": 0.00,
+    "descuentos": 0.00,
+    "tickets": 0,
+    "tiempoRespuesta": "--",
+    "calidad": "--",
+    "horasExtra": "0"
+  }
+}
