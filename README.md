@@ -1,1 +1,1 @@
-# PAND.1IM10.github.io
+# PAND-1IM10.github.io
